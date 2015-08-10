@@ -18,3 +18,5 @@
     }while(denominador>1);
    printf("\n1/1");
  }
+  
+ 
