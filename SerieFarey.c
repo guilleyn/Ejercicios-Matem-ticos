@@ -3,8 +3,6 @@
 Más información sobre la misma en: https://es.wikipedia.org/wiki/Sucesión_de_Farey
 El ejercicio se realizó sin utilizar arrays, estructuras u otros tipos de arreglos a petición del enunciado.
 */
-
-
  int main(){
     int n,numerador=0,denominador=1,aux1=1,aux2=0,aux3,temp;
     printf("Introduzca un numero: ");
